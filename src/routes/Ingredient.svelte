@@ -12,10 +12,16 @@ if (isMetric) {
 	if (poundsArr.includes(unit)) {
 		unit = 'g'
 		quantity = quantity * 454
-	} else {
+		minQuantity = minQuantity * 454
+		maxQuantity = maxQuantity * 454
+	}
+	
+	if (cupsArr.includes(unit)) {
 		const density = getDensity(ingredient)
 		console.log('density', density)
 		quantity = quantity * density.density
+		minQuantity = minQuantity * density.density
+		maxQuantity = maxQuantity * density.density
 		unit = density.unit	
 	}
 

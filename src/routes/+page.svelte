@@ -1,8 +1,5 @@
 <script>
-import Counter from './Counter.svelte'
 import Ingredient from './Ingredient.svelte'
-// import welcome from '$lib/images/svelte-welcome.webp'
-// import welcome_fallback from '$lib/images/svelte-welcome.png'
 import { parseIngredient } from '@jlucaspains/sharp-recipe-parser'
 
 let ingredients = ''
@@ -53,6 +50,15 @@ const handleSubmit = () => {
 		{/if}
 
 		<!--
+
+		3tablespoon garlic
+		2tablespoon lemon juice
+		3 to 4cup butter
+		2pound scallops
+		pepper to taste.
+		5 cups milk
+
+
 		9 cups cooked chicken approx (see note 1 to cook from scratch)
 		2 slices bread or 3, if small, crusts removed
 		1/3 cup milk 80ml

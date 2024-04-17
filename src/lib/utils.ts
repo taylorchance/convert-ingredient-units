@@ -694,3 +694,71 @@ const foodDensities = [
   { name: "Yogurt", density: 227.0, unit: "g" },
   { name: "Zucchini, shredded", density: 156.0, unit: "g" }
 ]
+
+
+
+// CORRECT FROM https://www.mysaffronapp.com/:
+// 1 tablespoon vegetable oil
+// 3 tablespoons butter plus 1 tablespoon for tossing the pasta
+// 120ml chopped onion
+// 160ml chopped celery
+// 160ml chopped carrot
+// 340.2g ground beef chuck (or you can use 1 part pork to 2 parts beef)
+// Salt
+// Black pepper, ground fresh from the mill
+// 240ml whole milk
+// whole nutmeg
+// 240ml dry white wine
+// 360ml canned imported Italian plum tomatoes, cut up, with their juice
+// 1.8-0.5kg pasta
+// Freshly grated parmigiano-reggiano cheese at the table
+
+
+// CORRECT FROM https://app.plantoeat.com/recipes/40957803/:
+// 15 mL  vegetable oil
+// 45 mL  butter plus 1 tablespoon for tossing the pasta
+// 120  mL  chopped onion
+// 160  mL  chopped celery
+// 160  mL  chopped carrot
+// 340.25 gram  ground beef chuck (or you can use 1 part pork to 2 parts beef)
+// Salt
+// Black pepper ground fresh from the mill
+// 240  mL  whole milk
+// Whole nutmeg
+// 240  mL  dry white wine
+// 360  mL  canned imported Italian plum tomatoes cut up, with their juice
+// 680.5  gram  pasta
+
+
+// from https://convertrecipe.com/convert_US_to_metric.php:
+// 1 tablespoon vegetable oil
+// 3 tablespoons butter plus 1 tablespoon for tossing the pasta
+// 1 ⅛ dl chopped onion
+// 1 ⅔ dl chopped celery
+// 1 ⅔ dl chopped carrot
+// 340 g ground beef chuck (or you can use 1 part pork to 2 parts beef)
+// Salt
+// Black pepper, ground fresh from the mill
+// 2 ⅓ dl (245 g) whole milk
+// Whole nutmeg
+// 2 ⅓ dl dry white wine
+// 3 ½ dl canned imported Italian plum tomatoes, cut up, with their juice
+// 570 g to 680 g pasta
+// Freshly grated parmigiano-reggiano cheese at the table
+
+
+// from samsung food aka whisk:
+// 1 tablespoon vegetable oil
+// 3 tablespoons butter
+// 40g chopped onion
+// 90g celery chopped
+// 90g carrot chopped
+// 340g ground beef chuck
+// salt
+// Black pepper
+// 240ml whole milk
+// whole nutmeg
+// 240ml dry white wine
+// 360g plum tomatoes canned, imported, Italian, cut up, with their juice
+// 570g pasta
+// parmigiano-reggiano cheese
